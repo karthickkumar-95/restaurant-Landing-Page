@@ -1,0 +1,68 @@
+.topic{
+        font-family: Qwigley;
+        color: #FFB30E;
+        font-size: 80px;
+        font-weight: 400;
+        line-height: 96px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.itemname{
+    //styleName: Headline 6 Bold;
+        font-family: Source Sans Pro;
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #424242;
+}
+.min {
+   
+background: #F1722833; 
+color:#F17228;
+text-align: center;
+
+}
+.page3{
+    //styleName: Headline 4 Bold;
+        font-family:'Source Sans 3';
+        font-size: 43px;
+        font-weight: 700;
+        line-height: 48px;
+       text-align: center;
+       color: #F17228;
+
+}
+.cardheader{
+    display: flex;
+    justify-items: center;
+}
+
+.dosa{
+    background-color:#F6F5EE;
+   
+}
+.search{
+    display:flex;
+    justify-content: center;
+}
+
+.content{
+        margin:200px;
+         display: flex;
+        justify-content:space-between;
+        font-family: Source Sans Pro;
+        font-size: 43px;
+        font-weight: 700;
+        line-height: 48px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+.pop{
+
+   display: flex;
+   flex-wrap: wrap;
+}
